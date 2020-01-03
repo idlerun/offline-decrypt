@@ -1,0 +1,14 @@
+{
+  "name": "offline-decrypt",
+  "version": "1.0.0",
+  "description": "Offline decryption of files encrypted by https://drive-encrypt.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idlerun/offline-decrypt"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
